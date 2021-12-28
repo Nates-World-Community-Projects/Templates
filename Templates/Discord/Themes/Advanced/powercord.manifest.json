@@ -1,0 +1,8 @@
+{
+    "name": "Your Theme Name",
+    "version": "1.0.0",
+    "author": "Your Discord Username (ex. Nate's World#2102)",
+    "description": "Your Theme Description",
+    "license": "MIT",
+    "theme": "dev.scss"
+}

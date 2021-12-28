@@ -1,0 +1,26 @@
+// ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗
+// ║ Chat-Input               ║ Normal                                                                                  ║
+// ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
+
+.chat-3bRxxu .form-2fGMdU {
+  max-height: 0%;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 0;
+}
+
+// ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗
+// ║ Chat-Input               ║ Hover                                                                                  ║
+// ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
+
+.chat-3bRxxu .chatContent-a9vAAp:hover .form-2fGMdU {
+  max-height: 100%;
+  margin-bottom: 0px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  opacity: 100;
+}
